@@ -18,3 +18,7 @@ p {
     width: 50%;
     height: auto;
 }
+footer {
+    align-text: center;
+    font-size: 20px;
+}
