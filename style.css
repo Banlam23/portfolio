@@ -15,10 +15,19 @@ p {
 #container {
     background-color: rgb(224, 213, 199);
     text-align: center;
-    width: 50%;
-    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+
 }
 footer {
     text-align: center;
-    font-size: 20px;
+    font-size: 10px;
+}
+.list {
+      display: inline-block;
+      text-align: center;
+}
+#item {
+    
+    font-family: cursive;
 }
