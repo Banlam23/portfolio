@@ -1,10 +1,11 @@
 body {
     color: rgb(0, 0, 0);
-    background-color: rgb(198, 201, 201);
-    /*background-image: url("papers.co-ax42-coding-dark-computer-bokeh-illustration-art-black-3840x2400.jpg");*/
+    /*background-color: rgb(198, 201, 201);*/
+    background-image: url("myphoto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-background-blend-mode: lighten;}
+    
+}
 h1 {
     text-align: center;
     color: rgb(46, 30, 30);
@@ -15,13 +16,16 @@ p {
 #container {
     background-color: rgb(224, 213, 199);
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 25px;
 
 }
 footer {
     text-align: center;
     font-size: 10px;
+    color: rgb(255, 255, 255);
 }
 .list {
       display: inline-block;
@@ -29,13 +33,14 @@ footer {
 }
 #item {
     
-    font-family: cursive;
+    font-family: ;
+    font-size: 30px;
+    font-weight: bold;
 }
 nav {
-  display: flex;
+  
   justify-content: center;
   gap: 1rem;
-  margin: 1em 0;
-  padding: 0.5em;
-  background-color: rgba(0,0,0,0.05);
+
+  /*background-color: rgba(0,0,0,0.05);*/
 }
